@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    color: aquamarine;
+
+
+}
+img{
+    height: 150px;
+    width: 700px;
+    text-align: center;
+}
+
+h1 {
+    color:(255, 255, 255);
+    background-color: black;
+    text-align: center;
+  }
+  
+  p {
+    color: red;
+  }

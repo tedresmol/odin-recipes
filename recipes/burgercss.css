@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+
+
+img{
+    height: auto;
+    width: 500px;
+}
+h1,h2{
+    background-color: brown;
+
+
+}
+ul,li{
+    background-color: aquamarine;
+
+
+}
+p,h4{
+    background-color: beige;
+
+}
