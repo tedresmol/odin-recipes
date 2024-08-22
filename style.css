@@ -1,0 +1,15 @@
+.recipes {
+    text-align: center;
+    color: black;
+    
+}
+.recipes ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+h1 {
+    text-align: center;
+}
+* {
+    background-color: beige;
+}
