@@ -1,4 +1,27 @@
+* {
+    background-color: brown;
+}
+
+
 h3 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 200;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+.red,
+.blue {
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
 }
